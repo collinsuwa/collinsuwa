@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinsuwa
-- 👀 I’m interested in Data Analytics
-- 🌱 Experienced using Excel, SQL and Power BI
-- 💞️ I’m looking to collaborate on Data Analytics
+- 👀 I’m interested in Data Analytics, Analytics Engineer
+- 🌱 Experienced using Excel, SQL, Big Query, dbt, Looker and Power BI
+- 💞️ I’m looking to collaborate on Data Analytics, Analytics Engineer and Power BI Analyst
 - 📫 You can reach me on mail.collinsuwa@gmail.com
 
 <!---
