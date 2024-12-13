@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinsuwa
 - 👀 I’m interested in Business Intelligence, Data Analytics, Analytics Engineer
 - 🌱 Experienced using Excel, SQL, Azure Data Studio, Big Query, dbt, Looker and Power BI
-- 💞️ I’m looking to collaborate on Business Intelligence, Data Analytics, Analytics Engineer and Power BI Analyst
+- 💞️ I’m looking to collaborate on Business Intelligence, Data Analytics, Fabric Analytics Engineer and Power BI Developer
 - 📫 You can reach me on mail.collinsuwa@gmail.com
 
 <!---
